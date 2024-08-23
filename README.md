@@ -8,4 +8,4 @@ curl -o ~/.vimrc https://raw.githubusercontent.com/waitfish/vimrc/main/.vimrc
 
 ## gittee
 
-curl -o ~/.vimr https://gitee.com/waitfish/vimrc/raw/main/.vimrc
+curl -o ~/.vimrc https://gitee.com/waitfish/vimrc/raw/main/.vimrc
